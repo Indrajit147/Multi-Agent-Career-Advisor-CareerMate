@@ -43,6 +43,9 @@ CareerMate helps users by:
 
 ---
 
+## 🛠️ How it responds-
+<img width="1534" height="788" alt="Screenshot 2025-08-01 175250" src="https://github.com/user-attachments/assets/8d7b8b64-0561-43ce-a6b8-82f7cccbe6b2" />
+<img width="1505" height="559" alt="Screenshot 2025-08-01 175353" src="https://github.com/user-attachments/assets/8723a33d-2dff-4626-bcf9-ebc0159b0007" />
 
-cd CareerMate
+
 
